@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="button_before">#ffffff</color>
+    <color name="button_after">#ff5454</color>
+    <color name="button_before_num">#d6ffba</color>
+    <color name="button_after_num">#ff46be</color>
+    <color name="deng_before">#b2c7ff</color>
+    <color name="deng_after">#fcef5b</color>
+</resources>
